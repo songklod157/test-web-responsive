@@ -51,6 +51,7 @@ const FristSlide = () => {
                     color: "#000",
                     fontStyle: "normal",
                     textAlign: "start",
+                    lineHeight: "normal",
                   }}
                 >
                   Connect with coaches directly, you can ping coaches to view
@@ -101,6 +102,7 @@ const FristSlide = () => {
                       color: "#000",
                       fontStyle: "normal",
                       textAlign: "start",
+                      lineHeight: "normal",
                     }}
                   >
                     Work with other student athletes to increase visability.
@@ -154,6 +156,7 @@ const FristSlide = () => {
                       color: "#fff",
                       fontStyle: "normal",
                       textAlign: "start",
+                      lineHeight: "normal",
                     }}
                   >
                     Resources and tools for you to get better as a student

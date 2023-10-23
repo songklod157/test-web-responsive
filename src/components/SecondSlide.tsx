@@ -53,6 +53,7 @@ const SecondSlide = () => {
                       color: "#000",
                       fontStyle: "normal",
                       textAlign: "start",
+                      lineHeight: "normal",
                     }}
                   >
                     Connect with coaches directly, you can ping coaches to view
@@ -104,6 +105,7 @@ const SecondSlide = () => {
                       color: "#000",
                       fontStyle: "normal",
                       textAlign: "start",
+                      lineHeight: "normal",
                     }}
                   >
                     Work with recruiter to increase your chances of finding
@@ -155,6 +157,7 @@ const SecondSlide = () => {
                       color: "#fff",
                       fontStyle: "normal",
                       textAlign: "start",
+                      lineHeight: "normal",
                     }}
                   >
                     Save your time, recruit proper athlets for your team.

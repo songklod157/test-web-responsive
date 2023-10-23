@@ -47,6 +47,9 @@ const Info = styled(Typography)(() => ({
   color: "#000",
   fontStyle: "normal",
   lineHeight: "28px",
+  "@media (max-width: 768px)": {
+    fontSize: "18px",
+  },
 }));
 const SecsionFifth = () => {
   return (
